@@ -3,7 +3,7 @@ This project uses Ice and Fire API to get books. It also provides CRUD operation
 
 clone this repository 
 
-         $ git clone https://github.com/Vicky201/django-rest-project
+         $ git clone https://github.com/shivamdas999/Backend_rep.git
 
 setup virtual env and install requirements
 
